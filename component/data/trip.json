@@ -1,0 +1,125 @@
+[
+    {
+        "url": "sailing-komodo-open-deck",
+        "tag": "sailing komodo 2023, wisata labuan bajo, open trip labuan bajo, deck boat, wonderful indonesia",
+        "title": "Sailing Komodo Open Deck",
+        "type": "Open Trip",
+        "time": "Full Day",
+        "mepo": "Bandara Komodo (LBJ)",
+        "price": "600.000",
+        "banner": [
+            {
+                "id": 1,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/decksailing3.webp"
+            },
+            {
+                "id": 2,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/decksailing2.webp"
+            },
+            {
+                "id": 3,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/decksailing1.webp"
+            }
+        ]
+    },
+    {
+        "url": "sailing-komodo-speed-boat",
+        "tag": "sailing komodo 2023, wisata labuan bajo, open trip labuan bajo, speed boat, wonderful indonesia",
+        "title": "Sailing Komodo Speed Boat",
+        "type": "Open Trip",
+        "time": "Full Day",
+        "mepo": "Bandara Komodo (LBJ)",
+        "price": "1.350.000",
+        "banner": [
+            {
+                "id": 1,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/speedsailing1.webp"
+            },
+            {
+                "id": 2,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/speedsailing3.webp"
+            },
+            {
+                "id": 3,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/speedsailing2.webp"
+            }
+        ]
+    },
+    {
+        "url": "sailing-komodo-reguler-3d2n",
+        "tag": "sailing komodo 2023, wisata labuan bajo, open trip labuan bajo, phinisi, living on boat, wonderful indonesia",
+        "title": "Sailing Komodo Reguler 3D2N",
+        "type": "Open Trip",
+        "time": "3D2N",
+        "mepo": "Bandara Komodo (LBJ)",
+        "price": "2.400.000",
+        "banner": [
+            {
+                "id": 1,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/phinisi3d2n3.webp"
+            },
+            {
+                "id": 2,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/phinisi3d2n2.webp"
+            },
+            {
+                "id": 3,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/phinisi3d2n1.webp"
+            }
+        ]
+    },
+    {
+        "url": "sailing-komodo-phinisi-3d2n",
+        "tag": "sailing komodo 2023, wisata labuan bajo, open trip labuan bajo, phinisi, living on boat, wonderful indonesia",
+        "title": "Sailing Komodo Phinisi 3D2N",
+        "type": "Open Trip",
+        "time": "3D2N",
+        "mepo": "Bandara / Hotel Labuan Bajo",
+        "price": "2.500.000",
+        "banner": [
+            {
+                "id": 1,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/phinisi2d1n1.webp"
+            },
+            {
+                "id": 2,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/sailingknp1.webp"
+            },
+            {
+                "id": 3,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/decksailing1.webp"
+            },
+            {
+                "id": 4,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/sailingknp2.webp"
+            }
+        ]
+    },
+    {
+        "url": "overland-wae-rebo",
+        "tag": "overland waerebo 2023, wisata labuan bajo, open trip labuan bajo, indonesian culture, waerebo village, wonderful indonesia",
+        "title": "Overland Wae Rebo Village",
+        "type": "Open Trip",
+        "time": "2D1N",
+        "mepo": "Kota Labuan Bajo",
+        "price": "1.400.000",
+        "banner": [
+            {
+                "id": 1,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/waerebo2.webp"
+            },
+            {
+                "id": 2,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/waerebo4.webp"
+            },
+            {
+                "id": 3,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/waerebo3.webp"
+            },
+            {
+                "id": 4,
+                "url": "https://raw.githubusercontent.com/azhardanii/journey-labuan-bajo-assets/main/waerebo1.webp"
+            }
+        ]
+    }
+]
